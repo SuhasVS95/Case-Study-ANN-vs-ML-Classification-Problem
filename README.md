@@ -1,8 +1,9 @@
 # Case-Study-ANN-vs-ML-Classification-Problem
 A comparative study on the results of an Artificial Neural Network(ANN) with that of an ML classification problem.
 
-##Problem Statement:
-This dataset has the features regarding the potability of the water whether it is safe to consume or not.
+## Problem Statement:
+
+Predictive Analysis of the features regarding the potability of the water whether it is safe to consume or not.
 
 ![image](https://user-images.githubusercontent.com/70081663/120935489-b127f980-c720-11eb-979b-e0b444c11ddd.png)
 
